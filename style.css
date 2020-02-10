@@ -3,6 +3,11 @@ body {
     font-family: 'Sarabun',Helvetica, Arial, sans-serif;
 }
 
+#bodycontent {
+    background-color: lightgray;
+    font-family: 'Sriracha', cursive;
+}
+
 a {
   text-decoration: none;
   color: #B23333;
@@ -35,6 +40,7 @@ h1, h2, h3  {
   width: 150px;
   float: left;
   padding: 20px;
+    position: absolute;
 }
 
 #nav ul {
@@ -53,6 +59,16 @@ h1, h2, h3  {
 
 }
 
+#prof {
+    max-width: 40%;
+    max-height: 40%;
+}
+
+#htmlimg {
+    max-width: 50%;
+    max-height: 50%;
+}
+
 #student-group {
   clear: both;
   margin: 20px;
@@ -61,6 +77,10 @@ h1, h2, h3  {
   background-color:  #d3d3d3;
   color: black;
   text-align: left;
+}
+
+#student-group a {
+    color: darkgreen;
 }
 
 #footer {
@@ -79,4 +99,11 @@ h1, h2, h3  {
   font-weight: lighter;
   color: black;
   text-align: left;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+    width: 250px;
 }

@@ -32,3 +32,27 @@ Revise the following section in your README.md file with a short description of 
 * 89-80 points: You accomplish all of the required changes.
 
 * 79-70 points: You don't accomplish all of the required changes
+
+## Assigment Accomplishments
+1. I have first changed the background color of the index page to a light grey color.
+
+2. I have changed the font of the index page to Sriracha, a font I was able to find on Google Fonts.
+
+3. I included images of professor Monberg and an image of HTML in the index page
+
+4. On the assignments page, I added the table requested, AND fixed the grading scale. (3.0 to 2.5 GPA grades)
+
+5. Changed the student name links to a dark green color, and changed the title of each group to be letters instead of numbers.
+
+6. Added floating navigation on the left of the page.
+
+7. Fixed the problem where the floating navigation would push the rest of the body of text off center, and everything now is centered and looks professional.
+
+
+
+
+
+
+
+
+
